@@ -48,6 +48,6 @@ Saladict 6 is a complete rewrite in React Typescript for both Chrome & Firefox. 
   <a href="https://github.com/crimx/ext-saladict/releases/" target="_blank"><img src="https://github.com/crimx/ext-saladict/wiki/images/screen-notebook.png" /></a>
 </p>
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/crimx/ext-saladict/releases/" target="_blank"><img src="https://github.com/crimx/ext-saladict/wiki/images/pin.gif" /></a>
 </p>
