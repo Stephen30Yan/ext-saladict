@@ -21,7 +21,7 @@ The core engine of Saladict is under rewriting right now. PRs are not encouraged
 [【中文】](https://www.crimx.com/ext-saladict/)Chrome/Firefox 浏览器插件，网页划词翻译。
 
 <p align="right">
-  <a href="https://github.com/crimx/ext-saladict/releases/" ><img src="https://raw.githubusercontent.com/wiki/crimx/ext-saladict/images/notebook.gif" /></a>
+  <a href="https://github.com/crimx/ext-saladict/releases/"><img src="https://raw.githubusercontent.com/wiki/crimx/ext-saladict/images/notebook.gif" /></a>
 </p>
 
 ## Downloads
